@@ -61,6 +61,9 @@ You can change `max_duplicate_count` to any value you want:
 
 ## Version History
 
+### 1.0.1
+- Updated mods GitHub URL
+
 ### v1.0.0
 - Initial release
 - Changes MaxDuplicateCount from 2 to 3
