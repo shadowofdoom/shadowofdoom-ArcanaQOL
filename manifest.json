@@ -1,0 +1,15 @@
+{
+  "namespace": "shadowofdoom",
+  "name": "ArcanaQOL",
+  "description": "Quality of Life improvements for Arcana cards. Currently: Relaxes The Queen's activation requirement to allow 3 cards with the same cost (instead of 2).",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "Hell2Modding-Hell2Modding-1.0.71",
+    "SGG_Modding-ENVY-1.2.0",
+    "SGG_Modding-ModUtil-4.0.1",
+    "SGG_Modding-Chalk-2.1.1",
+    "SGG_Modding-ReLoad-1.0.2"
+  ],
+  "website_url": "",
+  "FullName": "shadowofdoom-ArcanaQOL"
+}
